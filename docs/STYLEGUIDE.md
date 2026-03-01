@@ -11,7 +11,7 @@
     * *Example:* Click **Save**.
 * **Code Blocks:** Use backticks for file names, paths, and code snippets.
     * *Example:* Open the `config.json` file.
-* **Lists:** Use bullet points for options; use numbered lists for sequential steps.
+* **Lists:** Use bullet points for options; use numbered lists for sequential steps. 
 
 ### 3. Terminology
 * **"Log in" vs "Login":** "Log in" is a verb. "Login" is a noun.
@@ -20,7 +20,7 @@
 * **"Repo":** It is okay to use "repo" instead of "repository" in internal docs.
 
 ### 4. Accessibility
-* **Alt Text:** All images must have descriptive alt text.
+* **Alt Text:** All images must have descriptive alt text for accessibility. 
 * **Links:** Do not use "Click here." Use descriptive link text.
     * *Bad:* [Click here](http://google.com) for more info.
     * *Good:* See the [Google Homepage](http://google.com) for more info.
