@@ -22,5 +22,6 @@ jobs:
           atlassianUserName: '${{ secrets.CONFLUENCE_EMAIL }}'
           atlassianApiToken: '${{ secrets.CONFLUENCE_API_TOKEN }}'
           folderToPublish: 'docs'
-          # --- ADD THIS LINE ---
-          confluenceSpaceKey: '${{ secrets.CONFLUENCE_SPACE_KEY }}'
+        # --- env must be aligned with with ---
+        env:
+          CONFLUENCE_SPACE_KEY: 'WCS2'
