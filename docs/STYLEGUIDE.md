@@ -18,7 +18,7 @@
 * **"Log in" vs "Login":** "Log in" is a verb. "Login" is a noun.
     * *Correct:* "Log in to your account using your login credentials."
 * **"Select" vs "Click":** Use "Select" for dropdowns or checkboxes. Use "Click" for buttons and links.
-* **"Repo":** It is okay to use "repo" instead of "repository" in internal docs.
+* **"Repo":** It is okay to use "repo" instead of "repository" in internal docs.,
 
 ### 4. Accessibility
 * **Alt Text:** All images must have descriptive alt text for accessibility. 
