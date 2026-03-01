@@ -14,22 +14,6 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v5
 
-name: Sync to Confluence
-
-on:
-  push:
-    branches:
-      - main
-    paths:
-      - 'docs/**'
-
-jobs:
-  publish:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Code
-        uses: actions/checkout@v5
-
       - name: Sync to Confluence
         uses: markdown-confluence/publish-action@v5
         with:
@@ -39,5 +23,4 @@ jobs:
           atlassianApiToken: '${{ secrets.CONFLUENCE_API_TOKEN }}'
           folderToPublish: 'docs'
         env:
-          CONFLUENCE_SPACE_KEY: 'WCS2' # This tells the machine exactly where to go!
-
+          CONFLUENCE_SPACE_KEY: 'WCS2'
