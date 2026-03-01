@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'docs/**' # Only run if docs change
+      - 'docs/**'
 
 jobs:
   publish:
@@ -15,11 +15,11 @@ jobs:
         uses: actions/checkout@v5
 
       - name: Sync to Confluence
-        uses: markdown-confluence/publish-action@v5  # Updated verified path
+        uses: markdown-confluence/publish-action@v5
         with:
           confluenceBaseUrl: '${{ secrets.CONFLUENCE_BASE_URL }}'
-          confluenceParentId: '${{ secrets.CONFLUENCE_ROOT_PAGE_ID }}'
-          confluenceSpaceKey: 'CMS'  # <--- Add this line! (Use your actual Space Key)
+          confluenceParentId: '${{ secrets.CONFLUENCE_PARENT_ID }}'
+          confluenceSpaceKey: 'WCS2'
           atlassianUserName: '${{ secrets.CONFLUENCE_EMAIL }}'
-          atlassianApiToken: '${{ secrets.CONFLUENCE_API_TOKEN }}'
+          atlassianApiToken: '${{ secrets.CONFLUENCE_TOKEN }}'
           folderToPublish: 'docs'
