@@ -1,5 +1,10 @@
 Home (Root)
  <h1>New Employee Welcome</h1>
+ <p>
+ ACME CORP EMPLOYEE HANDBOOK & IT GUIDE
+
+GETTING STARTED
+Welcome to the team! To get your computer set up, you will need to submit a ticket to the HelpDesk, or work with your manager to gain access. </p>
     <h2>Office Etiquitte</h2>
     <h2>Holiday Schedule</h2>Hoiday Schedule
  <h1>Remote Work</h1>
