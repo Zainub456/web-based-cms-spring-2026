@@ -24,4 +24,4 @@ jobs:
           confluenceParentId: "1474561" #update to your page ID
           atlassianUserName: ${{ secrets.CONFLUENCE_EMAIL }}
           atlassianApiToken: ${{ secrets.CONFLUENCE_API_TOKEN }}
-          folderToPublish: "publish-zainub" #update to the name of the file you just made
+          folderToPublish: "zainub-intro-text" #update to the name of the file you just made
