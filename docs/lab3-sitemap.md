@@ -20,12 +20,12 @@
 <p>All employees must have the following installed:
   ●	Skype for Business (We use this for chats)
   ●	Internet Explorer 11 (Required for the timesheet app)
-  ●	Adobe Flash Player (Needed for the training videos)
+  ●	Adobe Flash Player (Needed for the training videos)</p>
 
-VPN ACCESS
- ●	To access the file server from home, you need to download the Cisco client.
+<h2>VPN ACCESS</h2>
+<p>●	To access the file server from home, you need to download the Cisco client.</p>
 
-For help getting set up, email sysadmin@acme.com.</p>
+<p>For help getting set up, email sysadmin@acme.com.</p>
 
  #Hello! This is my explanation behind the restructure to project 1. I rewrote the employee handbook because I think that is useful information to have. However, I deleted any sensitive or outdated information.
 Next, I deleted the "server_config_notes" and the marketing section, because that looks like it's outdated or sensitive information. Instead, I broke up the employee handbook by topic so they can 
