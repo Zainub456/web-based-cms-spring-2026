@@ -6,8 +6,16 @@ Home (Root)
     Welcome to the team! To get your computer set up, you will need to submit a ticket to the HelpDesk, or work with your manager to gain access. </p>
 
     <h2>Office Etiquitte</h2>
-        <p>Please do not leave your Tupperware in the sink. The cleaning crew comes on Tuesdays and Thursdays. If you drink the last cup of coffee, please make more. The coffee machine is a Keurig 2.0.</p>
-    <h2>Holiday Schedule</h2>Hoiday Schedule
+   <p> Please do not leave your Tupperware in the sink. The cleaning crew comes on Tuesdays and Thursdays. If you drink the last cup of coffee, please make more. The coffee machine is a Keurig 2.0. </p>
+
+    <h2>Holiday Schedule</h2>
+
+ <p>The office will be closed on the following days:
+  •	New Year's Day
+  •	Memorial Day
+  •	July 4th
+  •	Thanksgiving 
+  •	Christmas Day</p>
     
  <h1>Remote Work</h1>
  
