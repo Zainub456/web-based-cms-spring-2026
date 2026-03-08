@@ -1,6 +1,6 @@
 <h1>Home(root)</h1>
-<h1>Welcome to the team (parent)</h1> #welcome includes office etiquitte and holidays
- <h2>Office etiquitte (child)</h2> #(child)
+<h1>Welcome to the team (parent)</h1> #(parent)
+ <h2>Office etiquitte </h2> #(child)
  <h2>Holiday Schedule</h2> #(child)
  <h2>Remote work</h2> #(child)
  <h2>Software</h2> #(child) software as parent file, because it's very important
