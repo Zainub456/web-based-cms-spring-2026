@@ -14,7 +14,7 @@
   •	Thanksgiving 
   •	Christmas Day</p>
     
-  <h1>Remote Work</h1>
+  <h2>Remote Work</h2>
  <p>Employees are allowed to work from home on Fridays.</p>
   <h2>Software policy</h2>
 <p>All employees must have the following installed:
