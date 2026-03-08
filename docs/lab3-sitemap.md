@@ -22,7 +22,7 @@
   ●	Internet Explorer 11 (Required for the timesheet app)
   ●	Adobe Flash Player (Needed for the training videos)</p>
 
-<h2>VPN ACCESS</h2>
+<h2>VPN Access</h2>
 <p>●	To access the file server from home, you need to download the Cisco client.</p>
 
 <p>For help getting set up, email sysadmin@acme.com.</p>
