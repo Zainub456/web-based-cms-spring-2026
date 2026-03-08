@@ -7,24 +7,25 @@
    <p> Please don't leave your Tupperware in the sink. The cleaning crew comes on Tuesdays and Thursdays. If you drink the last cup of coffee, please make more. The coffee machine is a Keurig 2.0. </p>
 <h2>Holiday Schedule</h2>
 
- <p>The office will be closed on the following days:
+ <p>The office is typically closed on the following days:
   <ul>
- <li>New Year's Day</li> •	New Year's Day
-  •	Memorial Day
-  •	July 4th
-  •	Thanksgiving 
-  •	Christmas Day</ul></p>
+ <li>New Year's Day</li> 
+  <li>Memorial Day</li>
+  <li>July 4th</li>
+  <li>Thanksgiving</li>
+  <li>Christmas Day</li></ul></p>
     
   <h2>Remote Work</h2>
  <p>Employees are allowed to work from home on Fridays.</p>
   <h2>Software policy</h2>
 <p>All employees must have the following installed:
-  ●	Skype for Business (We use this for chats)
-  ●	Internet Explorer 11 (Required for the timesheet app)
-  ●	Adobe Flash Player (Needed for the training videos)</p>
+ <ul>
+  <li>Skype for Business (We use this for chats)</li>
+  <li>Internet Explorer 11 (Required for the timesheet app)</li>
+  <li>Adobe Flash Player (Needed for the training videos)</li></ul></p>
 
 <h2>VPN Access</h2>
-<p>●	To access the file server from home, you need to download the Cisco client.</p>
+<p>To access the file server from home, you need to download the Cisco client.</p>
 
 <p>For help getting set up, email sysadmin@acme.com.</p>
 
