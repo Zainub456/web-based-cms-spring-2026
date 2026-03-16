@@ -1,8 +1,9 @@
-HOLIDAY SCHEDULE
+<h2>Holiday Schedule</h2>
 
-The office will be closed on the following days:
-  •	New Year's Day
-  •	Memorial Day
-  •	July 4th
-  •	Thanksgiving 
-  •	Christmas Day
+ <p>The office is typically closed on the following days:
+  <ul>
+ <li>New Year's Day</li> 
+  <li>Memorial Day</li>
+  <li>July 4th</li>
+  <li>Thanksgiving</li>
+  <li>Christmas Day</li></ul></p>
