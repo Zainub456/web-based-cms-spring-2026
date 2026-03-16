@@ -1,3 +1,10 @@
+---
+title: Holiday Schedule 2026
+status: draft
+audience: all-employees
+tags: [hr, remote-work, wfh, IT]
+---
+
 <h2>Holiday Schedule</h2>
 
  <p>The office is typically closed on the following days:
