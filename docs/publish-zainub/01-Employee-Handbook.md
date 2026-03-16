@@ -5,9 +5,9 @@ audience: all-employees
 tags: [hr, remote-work, wfh, IT]
 ---
 
-<h1>INTERNAL USE ONLY</h1>
 
 <h1>ACME CORP EMPLOYEE HANDBOOK & IT GUIDE</h1>
+<p>Internal use only</p>
 
 <h2>GETTING STARTED</h2>
 <p>Welcome to the team! To get your computer set up, you will need to submit a ticket to the HelpDesk, or work with your manager to gain access. </p>
