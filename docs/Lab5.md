@@ -12,3 +12,9 @@ D -->|Three| G[Adobe Flash Player]
 C --No -->H[Email help@company.com]
 ```
 
+```mermaid
+pie title Articles Published
+    "Troubleshooting/Self Help" : 200
+    "Marketing" : 60
+    "New Tech Features" : 15
+```
