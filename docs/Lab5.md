@@ -1,4 +1,4 @@
-Flowchart of our Software help process:
+Flowchart of our Software help process: 
  
  
 ```mermaid
