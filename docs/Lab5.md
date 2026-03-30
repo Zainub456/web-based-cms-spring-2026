@@ -1,4 +1,4 @@
-Here is the visual breakdown of our new hire onboarding process:
+Flowchart of our Software help process:
  
  
 ```mermaid
@@ -12,6 +12,7 @@ D -->|Three| G[Adobe Flash Player]
 C --No -->H[Email help@company.com]
 ```
 
+Pie Chart with percentages of recent publication types:
 ```mermaid
 pie title Articles Published
     "Troubleshooting/Self Help" : 200
