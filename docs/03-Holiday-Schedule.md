@@ -7,10 +7,19 @@ tags: [hr, remote-work, wfh, IT]
 
 <h2>Holiday Schedule</h2>
 
- <p>The office is typically closed on the following days:
-  <ul>
- <li>New Year's Day</li> 
-  <li>Memorial Day</li>
-  <li>July 4th</li>
-  <li>Thanksgiving</li>
-  <li>Christmas Day</li></ul></p>
+ <p>The office is typically closed on the following days:</p>
+ ```mermaid
+ kanban
+  January
+    [New Years Day]
+  [May]
+    id6[Memorial Day]
+  id9[July]
+    id8[Independence Day]
+  id10[November]
+    id66[Thanksgiving day]
+    id66[Day after Thanksgiving]
+  id11[December]
+    id2[Christmas Day]
+    id3[Day after Christmas]
+
