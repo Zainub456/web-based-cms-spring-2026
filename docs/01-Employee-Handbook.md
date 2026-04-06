@@ -13,6 +13,15 @@ tags: [hr, remote-work, wfh, IT]
 <p>Welcome to the team! To get your computer set up, you will need to submit a ticket to the HelpDesk, or work with your manager to gain access. </p>
 
 <h2>KITCHEN ETIQUETTE</h2>
-<p>Please do not leave your Tupperware in the sink. The cleaning crew comes on Tuesdays and Thursdays. If you drink the last cup of coffee, please make more - we look our of each other here! Remember: More coffee = more happiness :) </p>
+<p> A few notes on kitchen etiquette. Remember to clean up after yourself, including and dishes in the sink. The cleaning crew only comes on Tuesdays and Thursdays, so it's up to us to work together to ensure a clean office. If you drink the last cup of coffee, please make more - we look out of each other here! 
+  Remember: More coffee = more happiness :) </p>
 
 
+journey
+    title Acme Corp 
+    section Team kitchen contribution
+      Coffee for all: 5: Team member
+      Messy kitchen: 1: Team member
+      Cleaning dishes: 3: Team member
+      Clean kitchen: 5: Team member
+    
