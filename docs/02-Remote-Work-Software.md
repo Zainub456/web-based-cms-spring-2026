@@ -15,12 +15,9 @@ tags: [hr, remote-work, wfh, IT]
 
 <h2>SOFTWARE INSTALLATION</h2>
 <p>All employees must have the following installed:</p>
+
+
 ```mermaid
----
-config:
-  kanban:
-    ticketBaseUrl: 'https://github.com/mermaid-js/mermaid/issues/#TICKET#'
----
 kanban
   Communication
     [Skype for business]
