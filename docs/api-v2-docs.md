@@ -40,7 +40,6 @@ sequenceDiagram
     User->>+API: Confirming theme selection
     API-->>-User: Notification: You selected dark mode
     API-->>-User: This theme is successfully saved to your profile
-'''
     
 
 **Error/unscucessful update: 401**
