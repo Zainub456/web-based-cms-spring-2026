@@ -6,12 +6,13 @@ tags: [design, development]
 ---
 
 Authentication required: Yes. Bearer token.
+
+
 **Authorization:** 
 
-**Success Response (200 OK):**
 ```json
 {
- Bearer<token>
+ Bearer <token>
 }
 ```
 
