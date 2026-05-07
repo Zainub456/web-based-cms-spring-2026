@@ -34,13 +34,13 @@ Create slider button (boolean) or true/false that gives notification of user sel
 ```
 Success message: "Theme updated" on push notification if saved correctly. 
 
-
+```mermaid
 sequenceDiagram
     User->>+API: Selecting dark mode as theme
     User->>+API: Confirming theme selection
     API-->>-User: Notification: You selected dark mode
     API-->>-User: This theme is successfully saved to your profile
-
+'''
     
 
 **Error/unscucessful update: 401**
