@@ -10,10 +10,17 @@ Authentication required: Yes. Bearer token.
 Bearer <token>
 
 
-Endpoint: Enable dark, light or system mode, and save setting
+**Endpoint:**
+End user can change profile theme to high contrast or dark mode and save to profile. 
+
+High contrast setting: Increas contrast for better readability. 
+Dark mode setting: Set theme to a dark color, like black or grey. 
+System: Defaut setting 
+
+**Request**
 Create slider button (boolean) or true/false that gives notification of user selection. 
 
-End user can change profile theme to light, dark or system, and save to profile. 
+
 
 
 **Successful update: 200**
