@@ -34,7 +34,12 @@ Create slider button (boolean) or true/false that gives notification of user sel
 ```
 Success message: "Theme updated" on push notification if saved correctly. 
 
-
+graph TD;
+    A[Walk into Breakroom] --> B{Is coffee pot empty?};
+    B -- Yes --> C[Make a new pot];
+    B -- No --> D[Pour a cup];
+    C --> E[Enjoy coffee];
+    D --> E;
     
 
 **Error/unscucessful update: 401**
