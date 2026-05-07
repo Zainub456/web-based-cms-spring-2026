@@ -15,7 +15,9 @@ End user can change profile theme to high contrast or dark mode and save to prof
 
 <ul>High contrast setting: Increase contrast for better readability. </ul>
 <ul>Dark mode setting: Set theme to a dark color, like black or grey. </ul>
-<ul>System: Defaut setting  
+<ul>System: Defaut setting  </ul>
+
+<br>
 
 **Request**
 Create slider button (boolean) or true/false that gives notification of user selection. 
