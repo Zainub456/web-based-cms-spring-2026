@@ -7,9 +7,13 @@ tags: [design, development]
 
 Authentication required: Yes. Bearer token.
 **Authorization:** 
-'''
-Bearer <token>
-'''
+
+**Success Response (200 OK):**
+```json
+{
+ Bearer<token>
+}
+```
 
 Endpoint: Enable dark, light or system mode, and save settings
 
