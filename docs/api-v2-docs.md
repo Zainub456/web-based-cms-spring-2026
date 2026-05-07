@@ -53,6 +53,3 @@ sequenceDiagram
 ```
 Error message: "Invalid theme" if spelled incorrectly. 
 
-
-
-
