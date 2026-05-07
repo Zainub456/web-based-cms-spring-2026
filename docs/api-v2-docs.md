@@ -13,9 +13,9 @@ Bearer <token>
 **Endpoint:**
 End user can change profile theme to high contrast or dark mode and save to profile. 
 
-High contrast setting: Increas contrast for better readability. 
-Dark mode setting: Set theme to a dark color, like black or grey. 
-System: Defaut setting 
+<ul>High contrast setting: Increase contrast for better readability. </ul>
+<ul>Dark mode setting: Set theme to a dark color, like black or grey. </ul>
+<ul>System: Defaut setting  
 
 **Request**
 Create slider button (boolean) or true/false that gives notification of user selection. 
