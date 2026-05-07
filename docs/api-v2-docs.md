@@ -20,6 +20,15 @@ Endpoint: Enable dark, light or system mode, and save settings
 
 End user can change profile theme to light, dark or system, and save to profile. 
 
+
+**Successful update:**
+```json
+{
+  "status": "Your profile is update",
+  
+}
+```
+
 Create slider button (boolean) or true/false that gives notification of user selection. 
 
 Authentication required: Yes. Bearer token. 
