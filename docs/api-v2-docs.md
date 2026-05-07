@@ -6,7 +6,10 @@ tags: [design, development]
 ---
 
 Authentication required: Yes. Bearer token.
-**Authorization:** 'Bearer <token>'
+**Authorization:** 
+'''
+Bearer <token>
+'''
 
 Endpoint: Enable dark, light or system mode, and save settings
 
